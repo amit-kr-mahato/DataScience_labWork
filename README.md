@@ -1,4 +1,6 @@
 # DataScience_labWork
 
-# lab  1 <br />
-# lab 2
+[Lab 1](./lab1) <br/>
+
+[Lab 2](./lab2)
+
