@@ -1,3 +1,7 @@
+# 10. Write multiple python files with separate functions for the following cases:
+# a. A program that takes the age of an user, and gives their birth year, and if birth
+# year was a leap year.
+
 age = input("Enter your age: ")
 
 if age.isdigit():

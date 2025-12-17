@@ -1,3 +1,6 @@
+# # 1. Write a program that takes two numbers as input from the user, and print their sum.
+
+
 a = input("Enter first number: ")
 b = input("Enter second number: ")
 

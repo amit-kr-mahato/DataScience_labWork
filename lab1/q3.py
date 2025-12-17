@@ -1,3 +1,5 @@
+# 3. Write a program that prints all prime numbers up to a given number ‘n’.
+
 n = input("Enter n: ")
 
 if n.isdigit():

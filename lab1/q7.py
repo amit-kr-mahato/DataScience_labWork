@@ -1,3 +1,5 @@
+# 7. Write a program that takes a list of numbers as input, and returns the largest number in the list.
+
 nums = input("Enter numbers separated by space: ").split()
 
 valid = True

@@ -1,3 +1,4 @@
+# 5. Define a function that takes two numbers as arguments, and returns their greatest common divisor (GCD).
 a = input("Enter first number: ")
 b = input("Enter second number: ")
 

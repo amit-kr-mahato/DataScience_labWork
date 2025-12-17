@@ -1,3 +1,5 @@
+# 4. Write a python program that prints the Fibonacci series up to n terms.
+
 n = input("Enter number of terms: ")
 
 if n.isdigit():

@@ -1,3 +1,8 @@
+#A program that checks if a user is eligible for army entrance based on their BMI
+# and age. The eligibility criteria are as follows:
+# ■ Age must be between 18 and 40 years.
+# ■ BMI must be within the range of 18.5 to 29.9.
+
 age = input("Enter age: ")
 bmi = input("Enter BMI: ")
 
