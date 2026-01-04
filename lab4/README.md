@@ -6,6 +6,6 @@
 [Question 3](q3.py) <br />
 [Question 4](q4.py) <br />
 [Question 5](q5.py) <br />
-
+[Question 6](q6.py)<br />
 
 
